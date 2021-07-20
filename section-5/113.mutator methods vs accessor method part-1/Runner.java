@@ -18,5 +18,5 @@ public class Runner {
     // Note: Java bean is a normal java class contains private properties and their
     // respective setter and getter methods, these classes are mainly used to
     // represent a particular entity data inorder to move from one class to another
-    // class or from one layer to another of enterprise applications.
+    // class or from one layer to another layer of enterprise applications.
 }
