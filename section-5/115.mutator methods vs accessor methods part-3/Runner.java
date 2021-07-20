@@ -23,7 +23,8 @@ class Employee {
     // We we want to access or modify data we have to use getter or setter methods.
     // Simply we have to go through methods to get to data, because of this coding
     // and data are combined in these methods(getter and setter methods), hence it
-    // provides encapsulation
+    // provides Encapsulation(Encapsulation means combining coding part and data
+    // part)
 
 }
 
