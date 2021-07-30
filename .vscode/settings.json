@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "section-5/136. OOPS instance context instance variable",
     "section-5/135. OOPS. constructors constructor overloading",
     "section-5/133. OOPS. constructors user defined constructors part-3",
     "section-5/132. OOPS. constructors user defined constructors part-2",
@@ -12,6 +13,6 @@
     "section-5/117.var arg method part-2",
     "section-5/107.interface-part-2",
     "section-5/106.interface-part-1",
-    "section-5/136. OOPS instance context instance variable"
+    "section-5/137. OOPS. instance context instance methods"
   ]
 }
