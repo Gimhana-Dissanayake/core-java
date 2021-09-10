@@ -1,7 +1,7 @@
 
 class AA{
 
-    //In java applications, if we want to access current class methods then it is not required to create object and it isnot required to use any reference variable and any special keyword, directly, we can access current class methods
+    //In java applications, if we want to access current class methods then it is not required to create object and it is not required to use any reference variable and any special keyword, directly, we can access current class methods
 
     void m1(){
         System.out.println("m1-A");
