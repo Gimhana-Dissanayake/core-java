@@ -1,4 +1,7 @@
 {
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "editor.wordWrapColumn": 50,
   "java.project.sourcePaths": [
     "section-5/141.OOPS. this keyword to refer current class variable part-2",
     "section-5/140. OOPS this keyword  to refer current class variables  part-1",
