@@ -3,6 +3,7 @@
   "explorer.compactFolders": false,
   "editor.wordWrapColumn": 50,
   "java.project.sourcePaths": [
+    "section-5/142. OOPS. this keyword to refer current class methods",
     "section-5/141.OOPS. this keyword to refer current class variable part-2",
     "section-5/140. OOPS this keyword  to refer current class variables  part-1",
     "section-5/139. OOPS instance context instance instance flow",
@@ -21,6 +22,6 @@
     "section-5/117.var arg method part-2",
     "section-5/107.interface-part-2",
     "section-5/106.interface-part-1",
-    "section-5/142. OOPS. this keyword to refer current class methods"
+    "section-5/145. OOPS. this keyword to return current class object"
   ]
 }
