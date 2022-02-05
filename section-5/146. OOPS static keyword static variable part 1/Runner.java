@@ -18,6 +18,8 @@ public class Runner {
     //1. By creating object and by using the generated reference variables.
     //2. by using class name directly.
 
+    //In the above two cases it is always better use class name to access static varialbes.
+
 //NOTE: In java applications, if we access any instance vairlabes by using a reference variable contains null value then JVM will raise an exception like java.lang.NullPointerException, but, if we access any static variables by using a refence variable contains null value then JVM will not raise any exception, where JVM will display the respective static varialbes value.
 
 // In Java applications, static varialbes data will be stored in Method Area, not in Stack memory and not in Heap Memory.
@@ -27,4 +29,6 @@ public class Runner {
 
 //In java applications, last modified value of static varialbe will be shared to all previous object which we have created and to all the future objects which we are going to create.
 
+
+//In Java applications, we are able to access current class static varialbes by using 'this' keyword.
 }
