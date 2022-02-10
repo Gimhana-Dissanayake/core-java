@@ -3,6 +3,7 @@
   "explorer.compactFolders": false,
   "editor.wordWrapColumn": 50,
   "java.project.sourcePaths": [
+    "section-5/148. OOPS . static keyword Static Variable Part-3",
     "section-5/147. OOP static keyword static variable part-2",
     "section-5/145. OOPS. this keyword to return current class object",
     "section-5/142. OOPS. this keyword to refer current class methods",
@@ -24,6 +25,6 @@
     "section-5/117.var arg method part-2",
     "section-5/107.interface-part-2",
     "section-5/106.interface-part-1",
-    "section-5/148. OOPS . static keyword Static Variable Part-3"
+    "section-5/151. OOPS. static keyword. Static Method Part-2"
   ]
 }
