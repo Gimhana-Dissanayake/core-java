@@ -35,6 +35,7 @@ public class Runner {
         // super class object reference value in sub class reference variable then we
         // are able to get "java.lang.ClassCastException"
 
+        // Type casting is done by JVM and type checking is done by compiler
         A a2 = new B();
         B b2 = (B) a2; // Downcasting
         b2.m1();
