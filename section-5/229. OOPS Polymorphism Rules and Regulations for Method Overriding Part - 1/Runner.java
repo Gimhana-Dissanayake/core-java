@@ -144,6 +144,25 @@ class Y extends X {
     }
 }
 
+// N and M classes were written by me for my testing
+class N {
+    void m1() {
+        System.out.println("--- m1 - Old Functionality ---");
+    }
+
+    int m1(String i) {
+        System.out.println("--- m1 - Old Functionality ---");
+        return 1;
+    }
+}
+
+class M extends N {
+    int m1(String i) {
+        System.out.println("--- m1 - NEW Functionality ---");
+        return 1;
+    }
+}
+
 public class Runner {
 
     public static void main(String[] args) {
@@ -152,6 +171,9 @@ public class Runner {
 
         H h = new H();
         h.m3();
+
+        N n = new M();
+        n.m1("HI");
     }
 
 }
