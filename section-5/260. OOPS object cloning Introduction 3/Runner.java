@@ -36,15 +36,17 @@ public class Runner {
 
     public static void main(String[] args) throws CloneNotSupportedException {
         Student oriStudent = new Student("s-111", "Kumara", "Colombo", "kumara@gmail.com", "0714567852");
+        System.out.println("original student ref value " + oriStudent);
         System.out.println("Student Original Data");
         oriStudent.getStudentDetails();
 
         System.out.println("-----------------------------------------------------------");
 
         Object obj = oriStudent.clone();
-        Student duuplicatStudent = (Student) obj;
+        Student duplicatStudent = (Student) obj;
+        System.out.println("duplicate student ref value " + duplicatStudent);
         System.out.println("Student Duplicated Data");
-        duuplicatStudent.getStudentDetails();
+        duplicatStudent.getStudentDetails();
     }
 
 }
