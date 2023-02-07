@@ -1,0 +1,13 @@
+// java.lang
+// It is a default package in java files, not required to import explicitly.
+
+// It is able to provided all fundamentals  classes and interface which are requried for basic java programming
+
+// Ex - System, Object, Cloneable, String, StringBuffer...
+// Exception, ArithmaticException, NullpointerException....
+// Number, Byte, Short, Integer, Float...
+// Runnable, Thread, ThreadGroup, ThreadLocal...
+
+public class Runner {
+    
+}
